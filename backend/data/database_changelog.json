@@ -1,0 +1,24 @@
+[
+  {
+    "version": "1.0.0",
+    "date": "2026-03-09T10:04:22.399279Z",
+    "changes": [
+      "Initial build: merged indian_food.csv + Indian_Food_DF.csv",
+      "Total dishes: 1100",
+      "Added GI estimation, GL calculation, Ayurvedic dosha mapping",
+      "Added ICMR RDA % per serving",
+      "Validated macro energy consistency"
+    ]
+  },
+  {
+    "version": "1.0.0",
+    "date": "2026-03-09T11:58:17.915739Z",
+    "changes": [
+      "Initial build: merged indian_food.csv + Indian_Food_DF.csv",
+      "Total dishes: 1100",
+      "Added GI estimation, GL calculation, Ayurvedic dosha mapping",
+      "Added ICMR RDA % per serving",
+      "Validated macro energy consistency"
+    ]
+  }
+]
